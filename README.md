@@ -21,7 +21,7 @@ Typescript code of the usage.
 
 ```typescript
 import { Component } from '@angular/core';
-import { FormControl } frm '@angular/forms';
+import { FormControl } from '@angular/forms';
 import { ConditionalValidators } from 'angular-conditional-validators';
 
 @Component({

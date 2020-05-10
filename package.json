@@ -1,6 +1,6 @@
 {
   "name": "angular-conditional-validators",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Validators for Angular Reactive Forms with AND & OR conditions.",
   "scripts": {
     "packagr": "./node_modules/.bin/ng-packagr"
