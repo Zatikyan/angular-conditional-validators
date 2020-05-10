@@ -1,0 +1,31 @@
+{
+  "name": "angular-conditional-validators",
+  "version": "1.0.0",
+  "description": "Validators for Angular Reactive Forms with AND & OR conditions.",
+  "scripts": {
+    "packagr": "./node_modules/.bin/ng-packagr"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zatikyan/angular-conditional-validators.git"
+  },
+  "author": "Armen Zatikyan (armen.zatikyan.1993@gmail.com)",
+  "keywords": [
+    "angular",
+    "reactive forms",
+    "validators"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zatikyan/angular-conditional-validators/issues"
+  },
+  "homepage": "https://github.com/Zatikyan/angular-conditional-validators#readme",
+  "devDependencies": {
+    "@angular/compiler": "^8.2.14",
+    "@angular/compiler-cli": "^8.2.14",
+    "@angular/core": "^8.2.14",
+    "@angular/forms": "^8.2.14",
+    "ng-packagr": "^5.7.1",
+    "typescript": "3.4.5"
+  }
+}
